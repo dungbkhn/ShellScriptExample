@@ -1,0 +1,634 @@
+/
+1663585246
+/AI
+1663579109
+/AI/BackProgation_GradientDescent_Codes
+1663579109
+/AI/BackProgation_GradientDescent_Codes/Codes
+1663579121
+/Anh Image
+1663657054
+/Anh Image/zalo
+1663580573
+/Articles
+1663580574
+/Articles/Hash-based Sign
+1663580607
+/Assets_bird
+1663580625
+/Assets_bird/Scenes
+1663580627
+/Blockchain
+1663580643
+/Blockchain/Btc Quantum
+1663580654
+/CongViecBKHN
+1663580655
+/CongViecBKHN/Tham Dinh
+1663580656
+/CV
+1663580658
+/DATN
+1663580659
+/DATN/MinhLH32021
+1663580667
+/Giangday
+1663583248
+/Giangday/CTDLGT
+1663581056
+/Giangday/CTDLGT/CTDLGT-pdf
+1663580696
+/Giangday/CTDLGT/CTDLGT-pdf/enc
+1663580720
+/Giangday/CTDLGT/De
+1663580803
+/Giangday/CTDLGT/De/2020
+1663580726
+/Giangday/CTDLGT/De/2021
+1663580730
+/Giangday/CTDLGT/De/2022_tn
+1663580790
+/Giangday/CTDLGT/De/2022_tn/de1-10
+1663580762
+/Giangday/CTDLGT/De/2022_tn/de11-20
+1663580775
+/Giangday/CTDLGT/De/2022_tn/de21-30
+1663580789
+/Giangday/CTDLGT/De/2022_tn/de31-40
+1663580802
+/Giangday/CTDLGT/De/De tai chuc
+1663580805
+/Giangday/CTDLGT/DungPQ
+1663580842
+/Giangday/CTDLGT/Luyen thi cao hoc
+1663580898
+/Giangday/CTDLGT/Luyen thi cao hoc/dethi
+1663580861
+/Giangday/CTDLGT/Luyen thi cao hoc/OnTapCaoHoc
+1663580868
+/Giangday/CTDLGT/Luyen thi cao hoc/OnTapCaoHoc/OnTapCaoHoc
+1663580892
+/Giangday/CTDLGT/Luyen thi cao hoc/OnTapCaoHoc/OnTapCaoHoc/sample
+1663580897
+/Giangday/CTDLGT/Luyen thi cao hoc/slide_noprint
+1663580925
+/Giangday/CTDLGT/OpenOffice
+1663580946
+/Giangday/CTDLGT/SourceCode
+1663581006
+/Giangday/CTDLGT/SourceCode/codecpp
+1663580993
+/Giangday/CTDLGT/SourceCode/Dropbox
+1663580994
+/Giangday/CTDLGT/SourceCode/Dropbox/Source Code
+1663581006
+/Giangday/CTDLGT/SourceCode/TDC
+1663581055
+/Giangday/CTDLGT/thayNghia
+1663581093
+/Giangday/Database security
+1663581242
+/Giangday/Database security/Database Security
+1663581230
+/Giangday/Database security/Database Security/An toàn CSDL - Báo cáo BTL
+1663581182
+/Giangday/Database security/Database Security/An toàn CSDL - Báo cáo BTL/An toàn CSDL - Báo cáo
+1663581230
+/Giangday/Database security/Database Security/BTL _ 1_2018
+1663581241
+/Giangday/Database security/Slide truong khac
+1663581257
+/Giangday/Kienthucmaytinh
+1663581308
+/Giangday/Kienthucmaytinh/Dethi2021
+1663581305
+/Giangday/Kienthucmaytinh/Dethi2021/Đề thi Kiến thức Máy tính 20211
+1663581307
+/Giangday/Kienthucmaytinh/video
+1663581357
+/Giangday/Ky_thuat_lap_trinh
+1663581706
+/Giangday/Ky_thuat_lap_trinh/BTL
+1663581385
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18
+1663581385
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL
+1663581548
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_BuiDuyAnh_PhamDucViet
+1663581388
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_BùiMinhHoàn_ ĐỗĐạiDương
+1663581390
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Đỗ Thái Sơn_Trần Đức Hùng
+1663581393
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Ngô Đức Trung_Đào Quang Duy_Nguyễn Tấn Nam Anh
+1663581395
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_NgôThanhHưng+
+1663581398
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Ngô Văn Nam_Bùi Tùng Anh++
+1663581404
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Công Nguyên_Nguyễn Tiến Khoa
+1663581405
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_NguyễnĐìnhTiến_NguyễnThanhBình_TrầnHoàngLinh+
+1663581411
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_NguyễnHả Anh_NguyễnNamKhánh
+1663581413
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Hải Long_Nguyễn Thành Long_Phạm Vũ Việt Anh
+1663581415
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_NguyenHongAnh_TranQuocToan_NguyenTieuAnh+
+1663581418
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Mạnh Tiến Anh_Trần Trung Hậu_Đào Vĩnh Linh
+1663581420
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_NGUYEN_QUANG_HUY
+1663581423
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_NguyễnThanhDương
+1663581425
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Thành Dương_ Vũ Duy Tuấn++
+1663581428
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_NguyenThanhHoa+
+1663581433
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Anh_Nguyễn Đăng Dương+
+1663581435
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Long_Đặng Trung Anh_Đào Trọng Khang_Vũ Tự Học+
+1663581437
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+
+1663581438
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long
+1663581440
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/file_da_duoc_bien_dich_tren_ubuntu
+1663581440
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv
+1663581475
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/Debug
+1663581463
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/Debug/ktlt_qltv.tlog
+1663581464
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/.vs
+1663581465
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/.vs/ktlt_qltv
+1663581466
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/.vs/ktlt_qltv/v16
+1663581474
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/.vs/ktlt_qltv/v16/ipch
+1663581474
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/.vs/ktlt_qltv/v16/ipch/AutoPCH
+1663581475
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/.vs/ktlt_qltv/v16/ipch/AutoPCH/e93a0b97f30d8b12
+1663581475
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/x64
+1663581476
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/x64/Debug
+1663581490
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long+/BTL_Nguyễn Tiến Phong _ Lê Hoàng Long/ktlt_qltv/x64/Debug/ktlt_qltv.tlog
+1663581494
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_NGUYỄN TUẤN ANH
+1663581496
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_NguyễnTuấnAnh_Phạm Đức Long
+1663581502
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Nguyễn Xuân Quốc Thái_Nguyễn Trần Anh Quân_Lê Chiến Thắng
+1663581505
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_PhạmMinhLong
+1663581507
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Phan Trường Huy_Mai Gia Long+
+1663581510
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Tô Mạnh Tùng_Nguyễn Mạnh Long_Lê Quang Vinh
+1663581512
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL - Trần Anh Dũng - 20187228
+1663581517
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL - Trần Anh Dũng - 20187228/Báo cáo KTLT - Trần Anh Dũng - 20187228
+1663581516
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL - Trần Anh Dũng - 20187228/__MACOSX
+1663581518
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL - Trần Anh Dũng - 20187228/__MACOSX/Báo cáo KTLT - Trần Anh Dũng - 20187228
+1663581519
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_TranLeHoang_PhamKhanhNam_NguyenHaDuc
+1663581539
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_TrầnPhiLong_NguyễnLịchDu
+1663581541
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Trần Phương Nam
+1663581544
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_TrầnThịThủy_ NguyễnĐứcChiến
+1663581546
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_TrươngBáHiếu_TrầnTấtHoàng_NguyễnHoàngTùng
+1663581548
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Trương Hùng Quân_ Đặng Nam Anh
+1663581551
+/Giangday/Ky_thuat_lap_trinh/BTL/OneDrive_2020-07-18/Upload BTL/BTL_Trương Hùng Quân_ Đặng Nam Anh/KTLT
+1663581554
+/Giangday/Ky_thuat_lap_trinh/Code
+1663581566
+/Giangday/Ky_thuat_lap_trinh/De
+1663581567
+/Giangday/Ky_thuat_lap_trinh/Programming Techniques
+1663581589
+/Giangday/Ky_thuat_lap_trinh/Tailieu
+1663581698
+/Giangday/Ky_thuat_lap_trinh/Tailieu/Baithuchanh3
+1663581616
+/Giangday/Ky_thuat_lap_trinh/Tailieu/Chương 1. Tổng quan về kỹ thuật lập trình
+1663581634
+/Giangday/Ky_thuat_lap_trinh/Tailieu/Chương 2. Quản lý bộ nhớFile
+1663581638
+/Giangday/Ky_thuat_lap_trinh/Tailieu/Chương 3. HàmFile
+1663581642
+/Giangday/Ky_thuat_lap_trinh/Tailieu/Chương 4. Kỹ thuật viết mã nguồn hiệu quả
+1663581646
+/Giangday/Ky_thuat_lap_trinh/Tailieu/Chương 5. Phong cách lập trìnhFile
+1663581650
+/Giangday/Ky_thuat_lap_trinh/Tailieu/Chương 6. Kỹ thuật đệ quyFile
+1663581655
+/Giangday/Ky_thuat_lap_trinh/Tailieu/Chương 7. Cấu trúc dữ liệuFile
+1663581686
+/Giangday/Ky_thuat_lap_trinh/Tailieu/Chương 8. Lập trình phòng ngừaFile
+1663581698
+/Giangday/Ky_thuat_lap_trinh/Tailieu/Chương 9. Gỡ rối, kiểm thử và tinh chỉnh mã nguồn
+1663581706
+/Giangday/Ky_thuat_lap_trinh/Thuc_hanh_ky_thuat_lap_trinh
+1663581713
+/Giangday/Lap_trinh_C_nang_cao
+1663581748
+/Giangday/Lap_trinh_C_nang_cao/De thi
+1663581725
+/Giangday/Lap_trinh_C_nang_cao/Diem
+1663581725
+/Giangday/Lap_trinh_C_nang_cao/Slides
+1663581747
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao
+1663581808
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/baitap_metro
+1663581762
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/BFS
+1663581769
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/directed_graph
+1663581775
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/generic
+1663581777
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/graph
+1663581782
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/jval
+1663581787
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/libfdr
+1663581788
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/libfdr/libfdr
+1663581798
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/phonebook
+1663581800
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/Test_libfdr
+1663581807
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/Test_libfdr/data
+1663581805
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/Test_libfdr/include
+1663581807
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/Test_libfdr/lib
+1663581808
+/Giangday/Lap_trinh_C_nang_cao/test_C_nangcao/weighted_graph
+1663581812
+/Giangday/lop_thuc_hanh_TTUD
+1663581820
+/Giangday/Ly_thuyet_nhap_mon_cntt
+1663581838
+/Giangday/Multimedia
+1663582774
+/Giangday/Multimedia/danh dau anh
+1663581955
+/Giangday/Multimedia/daphuongtien_en
+1663582042
+/Giangday/Multimedia/da phuong tien _ old
+1663582179
+/Giangday/Multimedia/da phuong tien _ old/scilab xu ly sound
+1663582297
+/Giangday/Multimedia/da phuong tien _ old/scilab xu ly sound/Digital signal processing in Scilab and Xcos. Part 1_ Reading sound files _ Vladnama_files
+1663582256
+/Giangday/Multimedia/da phuong tien _ old/scilab xu ly sound/Digital signal processing in Scilab and Xcos. Part 2_ Playing sound files _ Vladnama_files
+1663582297
+/Giangday/Multimedia/da phuong tien _ old/scilab xu ly sound/Digital signal processing in Scilab and Xcos. Part 3_ Fourier Analysis _ Vladnama_files
+1663582346
+/Giangday/Multimedia/do an tot nghiep Chau
+1663582371
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn
+1663582620
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh
+1663582609
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/File chay
+1663582385
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo
+1663582597
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/Debug
+1663582444
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasper
+1663582457
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasper/Debug
+1663582457
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib
+1663582547
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib/base
+1663582471
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib/Debug
+1663582504
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib/include
+1663582506
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib/include/jasper
+1663582519
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib/include/jasper/Debug
+1663582519
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib/jp2
+1663582522
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib/jpc
+1663582547
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib/jpc/Debug
+1663582546
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib/jpc/Release
+1663582547
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/jasperlib/Release
+1663582596
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/Release
+1663582597
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/J2kDemo/res
+1663582608
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/Chuong_trinh/test image
+1663582620
+/Giangday/Multimedia/do an tot nghiep Chau/CD-nopcoLAn/phieu_thong_tin_do_an
+1663582622
+/Giangday/Multimedia/ppt
+1663582699
+/Giangday/Multimedia/slide_china
+1663582735
+/Giangday/Multimedia/slide_jp
+1663582774
+/Giangday/Multimedia/video
+1663582790
+/Giangday/nhap_mon_cntt
+1663582819
+/Giangday/Sides_Java1_2013
+1663582923
+/Giangday/Sides_Java1_2013/code
+1663582888
+/Giangday/Sides_Java1_2013/code/lesson1
+1663582856
+/Giangday/Sides_Java1_2013/code/lesson2
+1663582859
+/Giangday/Sides_Java1_2013/code/lesson3
+1663582863
+/Giangday/Sides_Java1_2013/code/lesson4
+1663582866
+/Giangday/Sides_Java1_2013/code/lesson5
+1663582871
+/Giangday/Sides_Java1_2013/code/lesson6
+1663582877
+/Giangday/Sides_Java1_2013/code/lesson7
+1663582888
+/Giangday/Sides_Java1_2013/code/lesson8
+1663582893
+/Giangday/Sides_Java1_2013/Dethi
+1663582897
+/Giangday/Sides_Java1_2013/Diem
+1663582898
+/Giangday/Sides_Java1_2013/Lap trinh nang cao Java
+1663582922
+/Giangday/Sides_Java1_2013/Lap trinh nang cao Java/Code
+1663582922
+/Giangday/Sides_Java1_2013/Slides
+1663582956
+/Giangday/Sides_Java1_2013/Slides/gc_baitap
+1663582956
+/Giangday/Sides_Java1_2013/Slides/SourceCodes
+1663582965
+/Giangday/tinDC
+1663583001
+/Giangday/tinDC/TDC
+1663582981
+/Giangday/tinDC/TDC/Baitap 2011-2012
+1663582982
+/Giangday/tinDC/TDC/Baitap 2011-2012/Baitap 2011-2012
+1663583001
+/Giangday/tinDC/TDC_BK
+1663583009
+/Giangday/tinDC/TDC_BK/Slides
+1663583033
+/Giangday/Tinhtoansongsong
+1663583232
+/Giangday/Tinhtoansongsong/De thi
+1663583059
+/Giangday/Tinhtoansongsong/Diem
+1663583060
+/Giangday/Tinhtoansongsong/Lap trinh song song
+1663583104
+/Giangday/Tinhtoansongsong/Lap trinh song song/CUDA
+1663583071
+/Giangday/Tinhtoansongsong/Lap trinh song song/Lap trinh nang cao Java
+1663583094
+/Giangday/Tinhtoansongsong/Lap trinh song song/Lap trinh nang cao Java/Code
+1663583094
+/Giangday/Tinhtoansongsong/Lap trinh song song/MPI
+1663583103
+/Giangday/Tinhtoansongsong/Lap trinh song song/openmpprogramming
+1663583145
+/Giangday/Tinhtoansongsong/Lap trinh song song/openmpprogramming/OpenMP_files
+1663583144
+/Giangday/Tinhtoansongsong/Lap trinh song song/openmpprogramming/OpenMP.org_files
+1663583154
+/Giangday/Tinhtoansongsong/Slide Chuan
+1663583154
+/Giangday/Tinhtoansongsong/Slides Tinh toan song song
+1663583184
+/Giangday/Tinhtoansongsong/slide_Thieu
+1663583215
+/Giangday/Tinhtoansongsong/Tai chuc Tinh toan song song
+1663583231
+/Giangday/Tinhtoansongsong/tieng anh
+1663583248
+/Giangday/Unity3D
+1663583572
+/Giangday/Unity3D/Rollerball-Part01
+1663583299
+/Giangday/Unity3D/Rollerball-Part01/Rollerball
+1663583563
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Assets
+1663583310
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Assets/Materials
+1663583308
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Assets/Scenes
+1663583310
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Assets/Scripts
+1663583313
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library
+1663583550
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata
+1663583547
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/00
+1663583348
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/01
+1663583348
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/02
+1663583364
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/03
+1663583364
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/04
+1663583365
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/05
+1663583365
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/06
+1663583366
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/07
+1663583366
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/08
+1663583367
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/09
+1663583367
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/0a
+1663583368
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/0b
+1663583368
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/0c
+1663583369
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/0d
+1663583369
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/0e
+1663583371
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/0f
+1663583371
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/10
+1663583372
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/11
+1663583372
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/12
+1663583373
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/13
+1663583373
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/14
+1663583374
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/15
+1663583374
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/16
+1663583375
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/17
+1663583375
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/18
+1663583376
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/19
+1663583376
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/1a
+1663583377
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/1b
+1663583377
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/1c
+1663583377
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/1d
+1663583378
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/1e
+1663583379
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/1f
+1663583379
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/20
+1663583380
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/21
+1663583380
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/22
+1663583381
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/23
+1663583381
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/24
+1663583382
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/25
+1663583382
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/26
+1663583383
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/27
+1663583383
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/28
+1663583396
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/29
+1663583396
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/2a
+1663583396
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/2b
+1663583397
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/2c
+1663583397
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/2d
+1663583398
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/2e
+1663583398
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/2f
+1663583399
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/30
+1663583399
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/31
+1663583400
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/32
+1663583400
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/33
+1663583401
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/34
+1663583401
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/35
+1663583402
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/36
+1663583402
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/37
+1663583403
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/38
+1663583403
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/39
+1663583404
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/3a
+1663583404
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/3b
+1663583405
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/3c
+1663583405
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/3d
+1663583406
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/3e
+1663583406
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/3f
+1663583407
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/40
+1663583407
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/41
+1663583408
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/42
+1663583408
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/43
+1663583409
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/44
+1663583409
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/45
+1663583410
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/46
+1663583410
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/47
+1663583411
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/48
+1663583411
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/49
+1663583412
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/4a
+1663583412
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/4b
+1663583413
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/4c
+1663583413
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/4d
+1663583413
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/4e
+1663583414
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/4f
+1663583414
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/50
+1663583415
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/51
+1663583415
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/52
+1663583416
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/53
+1663583416
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/54
+1663583417
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/55
+1663583417
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/56
+1663583418
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/57
+1663583418
+/Giangday/Unity3D/Rollerball-Part01/Rollerball/Library/metadata/58
+1663583420
