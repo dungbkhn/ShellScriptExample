@@ -1,15 +1,22 @@
 #!/bin/bash
+
 shopt -s dotglob
 shopt -s nullglob
 
-f(){
-	if [ "$1" -lt 10 ] ; then
-		return 1
-	else
-		return 2
+hashlogfile="hashlog.txt"
+afterhashlogfile="afterhashlog.txt"
+
+while IFS= read -r line
+do
+  echo "$line"
+  
+  while IFS= read -r afterline
+  do
+	
+	if [[ "$line" == "$afterline" ]] ; then
+		echo "$afterline"
+		break
 	fi
-}
-
-f 30
-
-echo "$?"
+  done < "$afterhashlogfile"
+  
+done < "$hashlogfile"
