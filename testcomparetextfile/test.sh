@@ -138,82 +138,15 @@ for pathname in "$dir1"/* ;do
 done
 
 echo "test8"
-glb_endclienttox_pid=43773
-rs=$(ps -p $glb_endclienttox_pid | sed -n 2p)
-code=$?
-if [[ -z "$rs" ]] ; then
-	echo "rs null"
-else
-	echo "$rs"
-fi
+start_time=$SECONDS
+sleep 5
+elapsed=$(( $SECONDS - $start_time ))
+echo $elapsed
 
-echo "test9"
+start_time=$SECONDS
+sleep 5
+elapsed=$(( SECONDS - start_time ))
+echo $elapsed
 
-rs="109"
-rs=$(( $rs/10 ))
-echo "$rs"
 
-append_file_with_hash_checking(){
-	local dir1="$1"
-	local dir2="$2"
-	local interpath="$3"
-	local filename="$4"
-	local hashremotefile
-	local hashlocalfile
-	local filesize
-	local mtime
-	local tg
-
-	local temphashfilename="tempfile.totalmd5sum.being"
-
-	rm "$glb_memtemp_local"/"$temphashfilename"	
-
-	result=$(run_command_in_remote "4" "//x//${interpath}/${filename}")
-	
-	code=$?
-
-	hashremotefile="$result"
-
-	tg="wc -c ""$glb_mainmem_remote""${interpath}""/""${filename}"" | awk ""'{print "'$1'"}'"
-
-	result=$(run_command_in_remote "1" "${tg}")
-	
-	code=$?
-
-	filesize="$result"
-
-	# "$hashremotefile"
-
-	# "filesize:""$filesize"
-
-	if [[ -f "$dir1""$interpath"/"$filename" ]] ; then		
-		result=$(run_command_in_remote "5" "$glb_mainmem_local""${interpath}""/""${filename}" "$filesize")
-	
-		code=$?
-
-		hashlocalfile="$result"
-		# "hashlocal:""$hashlocalfile"
-		
-		if [[ "$hashlocalfile" == "$hashremotefile" ]] ; then
-			mech 'has same md5hash after truncate-->continue append'
-			mtime=$(stat "${glb_mainmem_local}${interpath}/${filename}" -c %Y)
-			code=$?
-			
-			if [[ $code -ne 0 ]] ; then
-				mech 'file not found'
-				return 252				
-			else
-				append_native_file "$interpath" "$filename" 0 "$mtime"
-				code="$?"				
-				return "$code"
-			fi
-		else
-			mech 'different md5hash after truncate-->copy total file'
-			# "$interpath"
-			# "$filename"
-			copy_file_to_remote "$interpath" "$filename"
-		fi
-	fi
-
-}
 

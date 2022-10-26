@@ -107,7 +107,7 @@ checkmodifydir(){
 		fi
 	done
 
-	echo "output:""$outstr"
+	echo "$outstr"
 	
 	exit 0
 }
@@ -116,8 +116,8 @@ rs=$(checkmodifydir "/home/dungnt/Backup/Store/MySyncDir")
 code=$?
 
 if [[ "$code" == "0" ]] ; then
-	echo "co output do, neu output la xau rong thi co nghia la thu muc root co thay doi"
-	echo "$rs"
+	echo "co output ra, neu output la xau rong thi co nghia la thu muc root co thay doi"
+	echo "output:""$rs"
 else
 	echo "co loi voi exit =1, co the ca hai file deu ko ton tai hoac ko co du lieu"
 fi
